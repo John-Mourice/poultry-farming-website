@@ -1,5 +1,5 @@
-how to start farming
-process
-planning
-feeding
+how to start farming,
+process,
+planning,
+feeding and
 egg collection
